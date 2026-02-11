@@ -91,9 +91,6 @@ These outputs are written automatically to the `output/` folder.
 ```
 job-pipeline-project/
 │
-├── data/
-│   └── postings_sample.csv
-│
 ├── output/
 │   ├── clean_postings_sample.csv
 │   ├── remote_share_by_work_type.csv
